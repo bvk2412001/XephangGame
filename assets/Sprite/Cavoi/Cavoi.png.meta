@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c25d0282-c1cb-4a39-9912-0ba9fe30272b",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c25d0282-c1cb-4a39-9912-0ba9fe30272b@6c48a",
+      "displayName": "Cavoi",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "c25d0282-c1cb-4a39-9912-0ba9fe30272b",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "c25d0282-c1cb-4a39-9912-0ba9fe30272b@f9941",
+      "displayName": "Cavoi",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -0.5,
+        "trimX": 2,
+        "trimY": 3,
+        "width": 2896,
+        "height": 2895,
+        "rawWidth": 2900,
+        "rawHeight": 2900,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -1448,
+            -1447.5,
+            0,
+            1448,
+            -1447.5,
+            0,
+            -1448,
+            1447.5,
+            0,
+            1448,
+            1447.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            2,
+            2897,
+            2898,
+            2897,
+            2,
+            2,
+            2898,
+            2
+          ],
+          "nuv": [
+            0.000689655172413793,
+            0.000689655172413793,
+            0.9993103448275862,
+            0.000689655172413793,
+            0.000689655172413793,
+            0.9989655172413793,
+            0.9993103448275862,
+            0.9989655172413793
+          ],
+          "minPos": [
+            -1448,
+            -1447.5,
+            0
+          ],
+          "maxPos": [
+            1448,
+            1447.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c25d0282-c1cb-4a39-9912-0ba9fe30272b@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "c25d0282-c1cb-4a39-9912-0ba9fe30272b@6c48a"
+  }
+}

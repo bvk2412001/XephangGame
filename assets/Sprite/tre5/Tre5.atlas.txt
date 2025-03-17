@@ -1,0 +1,132 @@
+
+Tre5.png
+size: 1161,1161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: false
+  xy: 889, 1096
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: true
+  xy: 222, 1012
+  size: 113, 207
+  orig: 113, 207
+  offset: 0, 0
+  index: -1
+Group 13
+  rotate: true
+  xy: 2, 1034
+  size: 101, 218
+  orig: 101, 218
+  offset: 0, 0
+  index: -1
+Group 14
+  rotate: false
+  xy: 1023, 1090
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Group 15
+  rotate: false
+  xy: 253, 1133
+  size: 115, 26
+  orig: 115, 26
+  offset: 0, 0
+  index: -1
+Group 16
+  rotate: true
+  xy: 2, 887
+  size: 123, 1157
+  orig: 123, 1157
+  offset: 0, 0
+  index: -1
+Group 17
+  rotate: false
+  xy: 2, 1146
+  size: 48, 13
+  orig: 50, 15
+  offset: 1, 1
+  index: -1
+Group 2
+  rotate: true
+  xy: 198, 1137
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Group 22
+  rotate: true
+  xy: 419, 1127
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+Group 23
+  rotate: true
+  xy: 513, 1127
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 955, 1094
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: true
+  xy: 225, 1135
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Group 9
+  rotate: false
+  xy: 92, 1139
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 656, 1117
+  size: 231, 42
+  orig: 234, 44
+  offset: 1, 1
+  index: -1
+buon2
+  rotate: false
+  xy: 52, 1140
+  size: 38, 19
+  orig: 42, 21
+  offset: 2, 0
+  index: -1
+chong mat2
+  rotate: false
+  xy: 151, 1139
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+lung win1
+  rotate: false
+  xy: 370, 1131
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+luoi
+  rotate: true
+  xy: 607, 1126
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
